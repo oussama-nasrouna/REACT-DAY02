@@ -1,0 +1,18 @@
+.a
+{
+    background-color: coral;
+    width: 40%;
+    margin: auto;
+    font-size: 20px;
+    font-family:cursive;
+    color:saddlebrown;
+    border: solid;
+}
+
+.b
+{
+    border-style:solid;
+    width: 200px;
+    height: 25px;
+    border-radius: 9px;
+}
